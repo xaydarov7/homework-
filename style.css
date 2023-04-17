@@ -488,6 +488,14 @@
     box-shadow: 1px 3px 5px;
     cursor: pointer;
 }
+.wrapper .end button:hover{
+    background-color: #FFFFFF;
+}
+.wrapper .end button:active{
+    width: 300px;
+    border-radius: 100px;
+    background-color: green;
+}
 .wrapper .end span{
     font-family: 'Vollkorn';
     font-size: 15px;
